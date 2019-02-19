@@ -1,0 +1,23 @@
+{
+  "name": "xscale-podscast-transcripts",
+  "version": "1.0.0",
+  "description": "Transcripts and subtitles of XSCALE's podcasts on Youtube",
+  "main": "index.js",
+  "dependencies": {
+    "sbv": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serra/xscale-podscast-transcripts.git"
+  },
+  "author": "Marijn van der Zee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/serra/xscale-podscast-transcripts/issues"
+  },
+  "homepage": "https://github.com/serra/xscale-podscast-transcripts#readme"
+}
